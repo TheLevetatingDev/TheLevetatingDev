@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="none" alt="Banner" width="100%" />
+<!--<img src="none" alt="Banner" width="100%" />-->
 
 ## 🧠 My Focus Areas
 - Back-end development
